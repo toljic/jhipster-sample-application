@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "MjlmMTM2ODMxN2MzMjY5NmYxYjI3NWQxMGYxOGRhYWRkODUxNzkxMmQzZGYzM2IzNzljMjI5MzQ4NjVmOGMwODQyNGRmMDBhYzJiNTMyOGQ2NTMyNDljYTAzZDc0MTUyZjAzODNhZjk3MWM1MmNkNDU1YTdhNmRjNzQ0NTdmNTQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "toljic",
+  "repository-name": "jhipster-sample-application"
+}
